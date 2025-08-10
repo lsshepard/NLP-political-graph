@@ -1,0 +1,61 @@
+{
+  "nodes": [
+    {
+      "id": "d94c22a8-1f53-4368-b9ac-9b7551cf5ba3",
+      "name": "Formueskatt",
+      "type": "topic"
+    },
+    {
+      "id": "9783640f-65d2-4dca-8d1b-024208b89a5e",
+      "name": "Fremskrittspartiet \u00f8nsker \u00e5 avvikle formuesskatten ettersom den oppfattes \u00e5 diskriminere norsk eierskap og belaster pensjonister og vanlige l\u00f8nnsmottakere.",
+      "type": "standpoint"
+    },
+    {
+      "id": "c6330280-2350-4825-b8bb-24c0521205a5",
+      "name": "Flere partier \u00f8nsker \u00e5 redusere eller avvikle formuesskatten for \u00e5 stimulere til investeringer og vekst i privat n\u00e6ringsliv.",
+      "type": "standpoint"
+    },
+    {
+      "id": "3be80c94-fa4d-4181-996d-d31a52795a9c",
+      "name": "R\u00f8dt og andre partier st\u00f8tter formuesskatt som et virkemiddel for \u00e5 utjevne \u00f8konomiske forskjeller i samfunnet.",
+      "type": "standpoint"
+    },
+    {
+      "id": "1e30982d-89c6-4ca8-9f89-76183091042f",
+      "name": "Det er et synspunkt at formuesskatten kan gi mindre insentiv til entrepren\u00f8rskap og oppstart av nye bedrifter.",
+      "type": "standpoint"
+    },
+    {
+      "id": "5d73810c-6854-45cc-afe2-553ab5c2f955",
+      "name": "Det finnes ogs\u00e5 meninger om at formuesskatten b\u00f8r beholdes som en del av en rettferdig skattepolitikk som sikrer finansiering av offentlige tjenester.",
+      "type": "standpoint"
+    }
+  ],
+  "edges": [
+    {
+      "source": "d94c22a8-1f53-4368-b9ac-9b7551cf5ba3",
+      "target": "9783640f-65d2-4dca-8d1b-024208b89a5e",
+      "type": "topic_to_standpoint"
+    },
+    {
+      "source": "d94c22a8-1f53-4368-b9ac-9b7551cf5ba3",
+      "target": "c6330280-2350-4825-b8bb-24c0521205a5",
+      "type": "topic_to_standpoint"
+    },
+    {
+      "source": "d94c22a8-1f53-4368-b9ac-9b7551cf5ba3",
+      "target": "3be80c94-fa4d-4181-996d-d31a52795a9c",
+      "type": "topic_to_standpoint"
+    },
+    {
+      "source": "d94c22a8-1f53-4368-b9ac-9b7551cf5ba3",
+      "target": "1e30982d-89c6-4ca8-9f89-76183091042f",
+      "type": "topic_to_standpoint"
+    },
+    {
+      "source": "d94c22a8-1f53-4368-b9ac-9b7551cf5ba3",
+      "target": "5d73810c-6854-45cc-afe2-553ab5c2f955",
+      "type": "topic_to_standpoint"
+    }
+  ]
+}

@@ -1,0 +1,321 @@
+{
+  "nodes": [
+    {
+      "id": "7589e9bd-8ddb-410b-bf7b-cbf2521c2754",
+      "name": "Formueskatt",
+      "type": "topic"
+    },
+    {
+      "id": "09646140-ef8d-4a39-bc94-39669a835c6d",
+      "name": "Fremskrittspartiet \u00f8nsker \u00e5 avvikle formuesskatten da den betales av pensjonister og vanlige l\u00f8nnsmottakere, og den diskriminerer norsk eierskap og skaper ulemper for gr\u00fcndere.",
+      "type": "standpoint"
+    },
+    {
+      "id": "43c84ba5-7396-428c-b933-f23412edb143",
+      "name": "Formuesskatten rammer pensjonister og vanlige l\u00f8nnsmottakere, som mange opplever som urettferdig.",
+      "type": "supporting_argument"
+    },
+    {
+      "id": "e7c86988-f06b-4832-9534-32ab72c48538",
+      "name": "Formuesskatten diskriminerer norsk eierskap, da utenlandske eiere slipper denne skatten mens norske m\u00e5 betale.",
+      "type": "supporting_argument"
+    },
+    {
+      "id": "e197ca3b-6811-4978-823c-7f3ff4b643d6",
+      "name": "Norske gr\u00fcndere og eiere av selskaper uten store overskudd m\u00e5 ta ut utbytte eller ta opp l\u00e5n for \u00e5 kunne betale formuesskatten, noe som skaper \u00f8konomiske ulemper.",
+      "type": "supporting_argument"
+    },
+    {
+      "id": "89f97814-46b3-4cde-9462-4d3611f783a6",
+      "name": "Dagens eierbeskatning f\u00f8rer til at norske gr\u00fcndere og investorer velger \u00e5 flytte til land med mer attraktive rammebetingelser, noe som gj\u00f8r at Norge g\u00e5r glipp av kapital og kompetanse.",
+      "type": "supporting_argument"
+    },
+    {
+      "id": "6671d9f9-a9a8-440a-af75-765c5bf04458",
+      "name": "Formuesskatten oppfattes som en dobbelbeskatning av midler som allerede er skattlagt flere ganger.",
+      "type": "standpoint"
+    },
+    {
+      "id": "2c3eca6d-02ac-4ff9-be25-782e2a07ea7e",
+      "name": "Formuesskatten oppfattes som en dobbelbeskatning av midler som allerede er skattlagt flere ganger.",
+      "type": "supporting_argument"
+    },
+    {
+      "id": "14eb3a36-9ef5-4d35-80a5-1be9d8f6a3ae",
+      "name": "Formuesskatten betales ofte av pensjonister og vanlige l\u00f8nnsmottakere, som ogs\u00e5 m\u00e5 h\u00e5ndtere enkelte \u00f8konomiske utfordringer.",
+      "type": "supporting_argument"
+    },
+    {
+      "id": "96e65b21-b004-41a3-9cbc-e52d150ba2ad",
+      "name": "Formuesskatten diskriminerer norsk eierskap ved at utenlandske eiere slipper denne skatten.",
+      "type": "supporting_argument"
+    },
+    {
+      "id": "8c49218e-fa50-4b91-b909-643ed17ad98b",
+      "name": "Norske gr\u00fcndere og eiere av nyetablerte selskaper, som ikke har store inntekter, m\u00e5 ta opp l\u00e5n eller selge aksjer for \u00e5 betale formuesskatt.",
+      "type": "supporting_argument"
+    },
+    {
+      "id": "d9ed7899-c795-47cb-a12f-abc2b3462255",
+      "name": "Formuesskatten svekker incentivene for investorer og gr\u00fcndere til \u00e5 drive virksomhet og vokse i Norge.",
+      "type": "standpoint"
+    },
+    {
+      "id": "92a49777-1d8d-4d40-a2e5-0befa124a5ff",
+      "name": "Formuesskatten svekker incentivene for investorer og gr\u00fcndere til \u00e5 drive virksomhet og vokse i Norge.",
+      "type": "supporting_argument"
+    },
+    {
+      "id": "e70c6fb0-0c07-4382-b506-2634bc4a773a",
+      "name": "Norge g\u00e5r glipp av kapital og kompetanse som kunne bidratt til vekst og nye arbeidsplasser p\u00e5 grunn av formuesskatten.",
+      "type": "supporting_argument"
+    },
+    {
+      "id": "88f7a116-554a-4f69-9f83-fc0889ccc89b",
+      "name": "Gr\u00fcndere og eiere av selskaper i utviklingsfasen m\u00e5 ta ut utbytte, ta opp privat l\u00e5n eller selge aksjer for \u00e5 betale formuesskatten.",
+      "type": "supporting_argument"
+    },
+    {
+      "id": "4bd1c808-f8f5-49fb-b651-2081069738e4",
+      "name": "Formuesskatten diskriminerer norsk eierskap ved at utenlandske eiere slipper formuesskatt, mens norske m\u00e5 betale den.",
+      "type": "supporting_argument"
+    },
+    {
+      "id": "a4145887-59ce-4426-8e32-1f27ed0574a3",
+      "name": "H\u00f8ye skatter bidrar til \u00e5 redusere arbeidsinnsatsen og vri investeringer bort fra Norge.",
+      "type": "supporting_argument"
+    },
+    {
+      "id": "7692f6b6-d3a2-4ac9-b8ba-e1acf165d8b5",
+      "name": "Formuesskatten senker den \u00f8konomiske handlefriheten for enkeltmennesker og bedrifter.",
+      "type": "supporting_argument"
+    },
+    {
+      "id": "6375dbcc-e679-4cdd-b50e-804e2eac3afc",
+      "name": "Et skattesystem som avvikler formuesskatten vil v\u00e6re mer attraktivt for investeringer og nyskaping.",
+      "type": "supporting_argument"
+    },
+    {
+      "id": "960c75e0-620c-40ca-9b71-d9c8987983db",
+      "name": "Det argumenteres for at formuesskatten f\u00f8rer til at mange norske investorer og gr\u00fcndere flytter til land med mer gunstige skatteregler.",
+      "type": "standpoint"
+    },
+    {
+      "id": "2a5a74e8-1f19-4072-b9bf-2ff1cabc4a3d",
+      "name": "H\u00f8ye formuesskatter f\u00f8rer til at norske investorer og gr\u00fcndere flytter til land med gunstigere skatteregler.",
+      "type": "supporting_argument"
+    },
+    {
+      "id": "b4db9638-6721-48ea-a035-1ba4e513b6d3",
+      "name": "Norge g\u00e5r glipp av kapital og kompetanse n\u00e5r gr\u00fcndere flytter utenlands for \u00e5 unng\u00e5 h\u00f8ye skatter.",
+      "type": "supporting_argument"
+    },
+    {
+      "id": "5cdd0156-457a-4e4b-a20f-b88331829f20",
+      "name": "Formuesskatten p\u00e5legger norske gr\u00fcndere \u00f8konomiske byrder som kan hemme deres vekstmuligheter.",
+      "type": "supporting_argument"
+    },
+    {
+      "id": "a0c8112c-9a08-4380-ae62-5298e244f9b8",
+      "name": "Det eksisterer en diskriminering av norsk eierskap, ettersom utenlandske investorer slipper formuesskatt.",
+      "type": "supporting_argument"
+    },
+    {
+      "id": "466024bc-5ac0-4da0-8441-8aab67d9a7db",
+      "name": "Formuesskatten kan f\u00f8re til at gr\u00fcndere m\u00e5 ta opp l\u00e5n eller selge aksjer for \u00e5 betale skatten, noe som kan hindre investeringer.",
+      "type": "supporting_argument"
+    },
+    {
+      "id": "3f1f33c7-a065-428e-8894-0dcd68c702bc",
+      "name": "Mange velger \u00e5 flytte ut av Norge for \u00e5 unng\u00e5 de negative konsekvensene av formuesskatt.",
+      "type": "supporting_argument"
+    },
+    {
+      "id": "30495718-3d84-46ef-bae1-2079a38ce039",
+      "name": "Det hevdes at formuesskatten m\u00e5 fjernes for \u00e5 sikre at norsk eierskap kan bli opprettholdt og styrket.",
+      "type": "standpoint"
+    },
+    {
+      "id": "aaffe289-b169-41a7-8dea-d4a74015e1e3",
+      "name": "Fjerning av formuesskatten vil styrke norsk eierskap ved \u00e5 redusere \u00f8konomiske byrder p\u00e5 norske eiere, som ofte betaler flere ganger for de samme midlene.",
+      "type": "supporting_argument"
+    },
+    {
+      "id": "e1829bf1-0c87-491a-b234-127c474f7c15",
+      "name": "H\u00f8y formuesskatt er en hindring for investorer og gr\u00fcndere, og fjerningen av denne skatten vil forbedre insentivene for \u00e5 investere i Norge.",
+      "type": "supporting_argument"
+    },
+    {
+      "id": "7bbc6e04-57a9-4a64-b5d3-7517dc71307a",
+      "name": "Eksisterende formuesskatt favoriserer utenlandske eiere, som slipper denne skatten, noe som gir norsk eierskap en konkurranseulempe.",
+      "type": "supporting_argument"
+    },
+    {
+      "id": "c71582b1-f2cc-45e3-a1a4-8be29b10cf63",
+      "name": "Mange pensjonister og vanlige l\u00f8nnsmottakere betaler formuesskatt, og fjerning av skatten vil dermed lette den \u00f8konomiske belastningen for disse gruppene.",
+      "type": "supporting_argument"
+    },
+    {
+      "id": "b669979c-9e34-4f7b-b527-d6e7c3169781",
+      "name": "Fjerning av formuesskatten vil gi gr\u00fcndere st\u00f8rre frihet til \u00e5 reinvestere i egne selskaper uten \u00e5 m\u00e5tte selge aksjer eller ta ut utbytte for \u00e5 dekke skatten.",
+      "type": "supporting_argument"
+    }
+  ],
+  "edges": [
+    {
+      "source": "7589e9bd-8ddb-410b-bf7b-cbf2521c2754",
+      "target": "09646140-ef8d-4a39-bc94-39669a835c6d",
+      "type": "topic_to_standpoint"
+    },
+    {
+      "source": "43c84ba5-7396-428c-b933-f23412edb143",
+      "target": "09646140-ef8d-4a39-bc94-39669a835c6d",
+      "type": "supporting_argument"
+    },
+    {
+      "source": "e7c86988-f06b-4832-9534-32ab72c48538",
+      "target": "09646140-ef8d-4a39-bc94-39669a835c6d",
+      "type": "supporting_argument"
+    },
+    {
+      "source": "e197ca3b-6811-4978-823c-7f3ff4b643d6",
+      "target": "09646140-ef8d-4a39-bc94-39669a835c6d",
+      "type": "supporting_argument"
+    },
+    {
+      "source": "89f97814-46b3-4cde-9462-4d3611f783a6",
+      "target": "09646140-ef8d-4a39-bc94-39669a835c6d",
+      "type": "supporting_argument"
+    },
+    {
+      "source": "7589e9bd-8ddb-410b-bf7b-cbf2521c2754",
+      "target": "6671d9f9-a9a8-440a-af75-765c5bf04458",
+      "type": "topic_to_standpoint"
+    },
+    {
+      "source": "2c3eca6d-02ac-4ff9-be25-782e2a07ea7e",
+      "target": "6671d9f9-a9a8-440a-af75-765c5bf04458",
+      "type": "supporting_argument"
+    },
+    {
+      "source": "14eb3a36-9ef5-4d35-80a5-1be9d8f6a3ae",
+      "target": "6671d9f9-a9a8-440a-af75-765c5bf04458",
+      "type": "supporting_argument"
+    },
+    {
+      "source": "96e65b21-b004-41a3-9cbc-e52d150ba2ad",
+      "target": "6671d9f9-a9a8-440a-af75-765c5bf04458",
+      "type": "supporting_argument"
+    },
+    {
+      "source": "8c49218e-fa50-4b91-b909-643ed17ad98b",
+      "target": "6671d9f9-a9a8-440a-af75-765c5bf04458",
+      "type": "supporting_argument"
+    },
+    {
+      "source": "7589e9bd-8ddb-410b-bf7b-cbf2521c2754",
+      "target": "d9ed7899-c795-47cb-a12f-abc2b3462255",
+      "type": "topic_to_standpoint"
+    },
+    {
+      "source": "92a49777-1d8d-4d40-a2e5-0befa124a5ff",
+      "target": "d9ed7899-c795-47cb-a12f-abc2b3462255",
+      "type": "supporting_argument"
+    },
+    {
+      "source": "e70c6fb0-0c07-4382-b506-2634bc4a773a",
+      "target": "d9ed7899-c795-47cb-a12f-abc2b3462255",
+      "type": "supporting_argument"
+    },
+    {
+      "source": "88f7a116-554a-4f69-9f83-fc0889ccc89b",
+      "target": "d9ed7899-c795-47cb-a12f-abc2b3462255",
+      "type": "supporting_argument"
+    },
+    {
+      "source": "4bd1c808-f8f5-49fb-b651-2081069738e4",
+      "target": "d9ed7899-c795-47cb-a12f-abc2b3462255",
+      "type": "supporting_argument"
+    },
+    {
+      "source": "a4145887-59ce-4426-8e32-1f27ed0574a3",
+      "target": "d9ed7899-c795-47cb-a12f-abc2b3462255",
+      "type": "supporting_argument"
+    },
+    {
+      "source": "7692f6b6-d3a2-4ac9-b8ba-e1acf165d8b5",
+      "target": "d9ed7899-c795-47cb-a12f-abc2b3462255",
+      "type": "supporting_argument"
+    },
+    {
+      "source": "6375dbcc-e679-4cdd-b50e-804e2eac3afc",
+      "target": "d9ed7899-c795-47cb-a12f-abc2b3462255",
+      "type": "supporting_argument"
+    },
+    {
+      "source": "7589e9bd-8ddb-410b-bf7b-cbf2521c2754",
+      "target": "960c75e0-620c-40ca-9b71-d9c8987983db",
+      "type": "topic_to_standpoint"
+    },
+    {
+      "source": "2a5a74e8-1f19-4072-b9bf-2ff1cabc4a3d",
+      "target": "960c75e0-620c-40ca-9b71-d9c8987983db",
+      "type": "supporting_argument"
+    },
+    {
+      "source": "b4db9638-6721-48ea-a035-1ba4e513b6d3",
+      "target": "960c75e0-620c-40ca-9b71-d9c8987983db",
+      "type": "supporting_argument"
+    },
+    {
+      "source": "5cdd0156-457a-4e4b-a20f-b88331829f20",
+      "target": "960c75e0-620c-40ca-9b71-d9c8987983db",
+      "type": "supporting_argument"
+    },
+    {
+      "source": "a0c8112c-9a08-4380-ae62-5298e244f9b8",
+      "target": "960c75e0-620c-40ca-9b71-d9c8987983db",
+      "type": "supporting_argument"
+    },
+    {
+      "source": "466024bc-5ac0-4da0-8441-8aab67d9a7db",
+      "target": "960c75e0-620c-40ca-9b71-d9c8987983db",
+      "type": "supporting_argument"
+    },
+    {
+      "source": "3f1f33c7-a065-428e-8894-0dcd68c702bc",
+      "target": "960c75e0-620c-40ca-9b71-d9c8987983db",
+      "type": "supporting_argument"
+    },
+    {
+      "source": "7589e9bd-8ddb-410b-bf7b-cbf2521c2754",
+      "target": "30495718-3d84-46ef-bae1-2079a38ce039",
+      "type": "topic_to_standpoint"
+    },
+    {
+      "source": "aaffe289-b169-41a7-8dea-d4a74015e1e3",
+      "target": "30495718-3d84-46ef-bae1-2079a38ce039",
+      "type": "supporting_argument"
+    },
+    {
+      "source": "e1829bf1-0c87-491a-b234-127c474f7c15",
+      "target": "30495718-3d84-46ef-bae1-2079a38ce039",
+      "type": "supporting_argument"
+    },
+    {
+      "source": "7bbc6e04-57a9-4a64-b5d3-7517dc71307a",
+      "target": "30495718-3d84-46ef-bae1-2079a38ce039",
+      "type": "supporting_argument"
+    },
+    {
+      "source": "c71582b1-f2cc-45e3-a1a4-8be29b10cf63",
+      "target": "30495718-3d84-46ef-bae1-2079a38ce039",
+      "type": "supporting_argument"
+    },
+    {
+      "source": "b669979c-9e34-4f7b-b527-d6e7c3169781",
+      "target": "30495718-3d84-46ef-bae1-2079a38ce039",
+      "type": "supporting_argument"
+    }
+  ]
+}
