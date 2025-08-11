@@ -1,7 +1,10 @@
 
 def GET_STANDPOINTS_PROMPT(topic):
+    return f'''Sak: {topic}'''
+
+
+def GET_SUPPORTING_ARGUMENTS_PROMPT(argument, existing_arguments):
     return f'''
-Oppsummer standpunkter for saken {topic}.
-Relevante dokumenter ligger vedlagt.
-Husk instruksjonene dine.
+    Argument: {argument}
+    Existing arguments: {existing_arguments}
 '''

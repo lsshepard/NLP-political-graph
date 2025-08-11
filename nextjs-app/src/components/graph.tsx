@@ -4,7 +4,7 @@ import { useEffect, useRef } from "react";
 import { Network } from "vis-network";
 import { DataSet } from "vis-data";
 
-const filename = "current_2025-08-10_08-52-48";
+const filename = "current_2025-08-10_20-13-36";
 
 interface GraphNode {
   id: string;
@@ -37,18 +37,54 @@ export default function Graph() {
 
         // Create nodes dataset
         const nodes = new DataSet(
-          data.nodes.map((node) => ({
-            id: node.id,
-            label: node.name,
-            group: node.type,
-            title: node.name,
-            font: { size: 10, face: "Arial" },
-            shape: node.type === "topic" ? "diamond" : "circle",
-            color: node.type === "topic" ? "#ff7675" : "#74b9ff",
-            size: node.type === "topic" ? 25 : 15,
-            widthConstraint: { minimum: 80, maximum: 120 },
-            heightConstraint: { minimum: 30, maximum: 60 },
-          }))
+          data.nodes.map((node) => {
+            let color, shape, size;
+
+            switch (node.type) {
+              case "topic":
+                color = "#ff7675"; // Red for topics
+                shape = "diamond";
+                size = 25;
+                break;
+              case "argument":
+                color = "#74b9ff"; // Blue for arguments
+                shape = "circle";
+                size = 18;
+                break;
+              case "fact":
+                color = "#00b894"; // Green for facts
+                shape = "circle";
+                size = 16;
+                break;
+              case "value":
+                color = "#fdcb6e"; // Yellow for values
+                shape = "circle";
+                size = 17;
+                break;
+              case "standpoint":
+                color = "#a29bfe"; // Purple for standpoints
+                shape = "circle";
+                size = 19;
+                break;
+              default:
+                color = "#fd79a8"; // Pink for unknown types
+                shape = "circle";
+                size = 15;
+            }
+
+            return {
+              id: node.id,
+              label: node.name,
+              group: node.type,
+              title: node.name,
+              font: { size: 10, face: "Arial" },
+              shape: shape,
+              color: color,
+              size: size,
+              widthConstraint: { minimum: 80, maximum: 120 },
+              heightConstraint: { minimum: 30, maximum: 60 },
+            };
+          })
         );
 
         // Create edges dataset
@@ -57,52 +93,90 @@ export default function Graph() {
             id: `edge-${index}`,
             from: edge.source,
             to: edge.target,
-            arrows: "to",
-            color: "#636e72",
-            width: 2,
             title: edge.type,
           }))
         );
+
+        // Identify root nodes (nodes with no incoming edges)
+        const targetIds = new Set(data.edges.map((edge) => edge.target));
+        const rootNodes = data.nodes.filter((node) => !targetIds.has(node.id));
+
+        console.log(
+          "Root nodes found:",
+          rootNodes.map((n) => ({ id: n.id, name: n.name, type: n.type }))
+        );
+        console.log("Total nodes:", data.nodes.length);
+        console.log("Total edges:", data.edges.length);
 
         // Network configuration
         const options = {
           nodes: {
             borderWidth: 2,
+            margin: {
+              top: 20,
+              right: 20,
+              bottom: 20,
+              left: 20,
+            },
+            shadow: {
+              enabled: true,
+              color: "rgba(0,0,0,0.1)",
+              size: 10,
+              x: 5,
+              y: 5,
+            },
           },
           edges: {
+            arrows: "to",
             smooth: {
               enabled: true,
               type: "cubicBezier",
-              roundness: 0.5,
-              forceDirection: "horizontal",
+              roundness: 0.1,
+              forceDirection: "none",
             },
-            length: 200,
-            width: 2,
+            length: 180,
+            width: 1.2,
+            color: {
+              color: "#636e72",
+              opacity: 0.7,
+            },
+            selectionWidth: 3,
+            hoverWidth: 2.5,
           },
           physics: {
-            stabilization: false,
-            hierarchicalRepulsion: {
-              nodeDistance: 120,
-              springLength: 200,
-              springConstant: 0.01,
-              damping: 0.09,
+            enabled: true,
+            stabilization: {
+              enabled: true,
+              iterations: 1000,
+              updateInterval: 100,
             },
-            solver: "hierarchicalRepulsion",
+            forceAtlas2Based: {
+              gravitationalConstant: -80,
+              centralGravity: 0.005,
+              springLength: 300,
+              springConstant: 0.06,
+              damping: 0.4,
+              avoidOverlap: 0.8,
+            },
+            solver: "forceAtlas2Based",
+            timestep: 0.35,
+            adaptiveTimestep: true,
           },
           interaction: {
             hover: true,
             tooltipDelay: 200,
+            zoomView: true,
+            dragView: true,
+            navigationButtons: true,
           },
           layout: {
             improvedLayout: true,
             hierarchical: {
-              enabled: true,
-              direction: "DU",
-              sortMethod: "directed",
-              levelSeparation: 300,
-              nodeSpacing: 100,
-              treeSpacing: 100,
+              enabled: false,
             },
+          },
+          manipulation: {
+            enabled: false,
           },
         };
 
@@ -113,6 +187,13 @@ export default function Graph() {
           options
         );
         networkRef.current = network;
+
+        // Stop physics after stabilization to prevent continuous movement
+        network.on("stabilizationProgress", (params) => {
+          if (params.iterations >= params.total) {
+            network.setOptions({ physics: { enabled: false } });
+          }
+        });
 
         // Fit the network to the container
         network.fit();

@@ -1,0 +1,511 @@
+{
+  "nodes": [
+    {
+      "id": "905074cc-d993-4c8c-bcd6-ceb6d1deae4b",
+      "name": "Formueskatt",
+      "type": "topic"
+    },
+    {
+      "id": "de3974ac-aadc-45b9-adc5-e139c2440b57",
+      "name": "Formuesskatten b\u00f8r avvikles fordi den svekker norsk eierskap og rammer vanlige folk, spesielt pensjonister og l\u00f8nnsmottakere, som betaler skatten uten \u00e5 ha stor inntekt.",
+      "type": "standpoint"
+    },
+    {
+      "id": "b2d99161-7a71-4c03-98c4-af996b097f9e",
+      "name": "Formuesskatten kan bidra til \u00e5 finansiere viktige offentlige tjenester og velferdsordninger.",
+      "type": "standpoint"
+    },
+    {
+      "id": "60477bf4-2ef1-4154-9ffd-521ef5644471",
+      "name": "Formuesskatten b\u00f8r opprettholdes som et virkemiddel for omfordeling av rikdom i samfunnet.",
+      "type": "standpoint"
+    },
+    {
+      "id": "ac055f35-0b16-49cf-8180-1274f8c76a34",
+      "name": "Det b\u00f8r vurderes en reform av formuesskatten for \u00e5 gj\u00f8re den mer rettferdig og mindre belastende for gr\u00fcndere og sm\u00e5bedrifter.",
+      "type": "standpoint"
+    },
+    {
+      "id": "dd33ccdb-9cbc-4326-a8bb-d915b23a4e65",
+      "name": "Formuesskatten bidrar til finansieringen av viktige offentlige tjenester.",
+      "type": "fact"
+    },
+    {
+      "id": "f3c9e9ac-6009-4f24-b843-adc087a91046",
+      "name": "Inntektsfordelingen i samfunnet skal bidra til at velferdsordninger kan opprettholdes.",
+      "type": "fact"
+    },
+    {
+      "id": "d2298614-0259-45e9-ac15-6208a4efad87",
+      "name": "Formuesskatten svekker norsk eierskap av bedrifter og diskriminerer norske gr\u00fcndere fordi mange av dem m\u00e5 ta opp l\u00e5n eller selge aksjer for \u00e5 betale skatten.",
+      "type": "argument"
+    },
+    {
+      "id": "b02bcf16-c599-405e-a0d4-ee8b1178df84",
+      "name": "Formuesskatten svekker norsk eierskap, da utenlandske eiere ikke betaler formuesskatt",
+      "type": "argument"
+    },
+    {
+      "id": "143449f0-972f-4ea1-8b25-ab5ac91d8441",
+      "name": "Formuesskatten bidrar til en mer rettferdig fordeling av rikdom i samfunnet.",
+      "type": "argument"
+    },
+    {
+      "id": "41e5f20e-5305-48d0-b884-7929d3b3e1e7",
+      "name": "Formuesskatten svekker norsk eierskap av bedrifter ved at utenlandske eiere slipper formuesskatt, mens norske gr\u00fcndere m\u00e5 betale skatten, noe som undergraver den \u00f8konomiske stabiliteten for norske virksomheter.",
+      "type": "argument"
+    },
+    {
+      "id": "f9520687-f4d6-4605-bbc4-969f3f0d65a0",
+      "name": "Formuesskatten diskriminerer norsk eierskap ved at utenlandske eiere slipper formuesskatt, mens nordmenn m\u00e5 betale formuesskatt av aksjer i samme bedrift.",
+      "type": "argument"
+    },
+    {
+      "id": "c2e302c6-2e9a-458e-9b68-493efffc5eb2",
+      "name": "Formuesskatten bidrar til en mer rettferdig fordeling av rikdom i samfunnet.",
+      "type": "argument"
+    },
+    {
+      "id": "411fb8d5-6097-43a7-a078-c66a29b1c691",
+      "name": "Formuesskatten diskriminerer norsk eierskap ved at utenlandske eiere slipper formuesskatt, mens nordmenn m\u00e5 betale formuesskatt av aksjer i samme bedrift.",
+      "type": "argument"
+    },
+    {
+      "id": "83c37402-8c95-43ed-bde2-62aca67bf909",
+      "name": "Formuesskatten svekker norsk eierskap av bedrifter ved at utenlandske eiere slipper formuesskatt, mens norske gr\u00fcndere m\u00e5 betale skatten, noe som undergraver den \u00f8konomiske stabiliteten for norske virksomheter.",
+      "type": "argument"
+    },
+    {
+      "id": "d73a897c-114f-4742-9272-99692007128f",
+      "name": "Norske gr\u00fcndere og eiere av selskaper i utviklingsfasen, som ikke har store driftsoverskudd, er tvunget til \u00e5 ta ut utbytte, ta opp privat l\u00e5n eller selge aksjer for \u00e5 betale formuesskatten.",
+      "type": "argument"
+    },
+    {
+      "id": "09d4f829-b124-4fdb-be78-180988c00576",
+      "name": "Formuesskatten svekker norsk eierskap av bedrifter da utenlandske eiere slipper formuesskatt, mens norske gr\u00fcndere m\u00e5 betale skatten, noe som f\u00f8rer til \u00f8konomiske utfordringer for norske virksomheter.",
+      "type": "argument"
+    },
+    {
+      "id": "072e988c-83be-4677-a973-ce09c7a2fdcf",
+      "name": "Norske gr\u00fcndere og eiere av selskap i utviklingsfasen m\u00e5 ta ut utbytte, ta opp privat l\u00e5n eller selge aksjer for \u00e5 betale formuesskatten.",
+      "type": "fact"
+    },
+    {
+      "id": "41f35285-af87-47c2-8baf-9028d153885e",
+      "name": "Norske gr\u00fcndere og eiere av selskaper i utviklingsfasen, som ikke har store driftsoverskudd, blir tvunget til \u00e5 ta ut utbytte, ta opp private l\u00e5n eller selge aksjer for \u00e5 dekke formuesskatten, noe som kan hindre vekst og innovasjon.",
+      "type": "argument"
+    },
+    {
+      "id": "59216e28-229e-4fcf-8736-58299d83c403",
+      "name": "Formuesskatten kan bidra til \u00e5 finansiere viktige offentlige tjenester og velferdsordninger.",
+      "type": "fact"
+    },
+    {
+      "id": "cd414eaf-9a10-454e-b8a6-befd3a563a75",
+      "name": "Inntektsfordelingen i samfunnet skal bidra til at velferdsordninger kan opprettholdes.",
+      "type": "fact"
+    },
+    {
+      "id": "c04b2f09-f895-41c7-8c2c-19c7472ef532",
+      "name": "Formuesskatten b\u00f8r opprettholdes som et virkemiddel for omfordeling av rikdom i samfunnet.",
+      "type": "argument"
+    },
+    {
+      "id": "47c69aa2-82b1-4e51-b060-b6d9a8ad8c60",
+      "name": "Norske gr\u00fcndere og eiere av selskaper i utviklingsfasen, som ikke har store driftsoverskudd, m\u00e5 ta ut utbytte, ta opp privat l\u00e5n eller selge aksjer for \u00e5 betale formuesskatten.",
+      "type": "argument"
+    },
+    {
+      "id": "7508ed83-3295-47d5-9815-a151fce22d0f",
+      "name": "Formuesskatten svekker norsk eierskap av bedrifter og diskriminerer norske gr\u00fcndere fordi mange av dem m\u00e5 ta opp l\u00e5n eller selge aksjer for \u00e5 betale skatten.",
+      "type": "argument"
+    },
+    {
+      "id": "1700c163-82fb-40cf-bf1a-16a9d51d9d3c",
+      "name": "Formuesskatten rammer s\u00e6rlig pensjonister og vanlige l\u00f8nnsmottakere som betaler uten \u00e5 ha h\u00f8y inntekt",
+      "type": "argument"
+    },
+    {
+      "id": "535b6a9c-d226-4d54-869b-4baead323a03",
+      "name": "Norske gr\u00fcndere og eiere av selskaper i utviklingsfasen, som ikke har store driftsoverskudd, m\u00e5 ta ut utbytte, ta opp privat l\u00e5n eller selge aksjer for \u00e5 betale formuesskatten.",
+      "type": "argument"
+    },
+    {
+      "id": "0e23a811-dfa4-461b-9313-9eb789c8c0ee",
+      "name": "Formuesskatten svekker norsk eierskap av bedrifter ved at utenlandske eiere slipper formuesskatt, mens norske gr\u00fcndere m\u00e5 betale skatten, noe som undergraver den \u00f8konomiske stabiliteten for norske virksomheter.",
+      "type": "argument"
+    },
+    {
+      "id": "fc9069ff-584e-48a7-96ea-5a2c117cda7b",
+      "name": "Mange gr\u00fcndere og investorer har flyttet til andre land med bedre rammevilk\u00e5r p\u00e5 grunn av h\u00f8y eierbeskatning.",
+      "type": "fact"
+    },
+    {
+      "id": "95e4d94d-f3e2-447f-b5ea-b26efe300af0",
+      "name": "Rettferdighet i skattesystemet er viktig for \u00e5 opprettholde et dynamisk og innovativt n\u00e6ringsliv.",
+      "type": "value"
+    },
+    {
+      "id": "2ef96031-fdd0-4bbe-b731-77167b152a24",
+      "name": "Formuesskatten bidrar til en mer rettferdig fordeling av rikdom i samfunnet.",
+      "type": "argument"
+    },
+    {
+      "id": "4ac5db25-0dc2-430a-8d29-92e2c68eee3b",
+      "name": "Formuesskatten kan bidra til \u00e5 finansiere viktige offentlige tjenester og velferdsordninger.",
+      "type": "fact"
+    },
+    {
+      "id": "887ee6d8-9b7f-46df-af97-da6d87363844",
+      "name": "Inntektsfordelingen i samfunnet skal bidra til at velferdsordninger kan opprettholdes.",
+      "type": "fact"
+    },
+    {
+      "id": "6ff87de6-bf61-47e0-abe7-7a01d42c42f5",
+      "name": "Omfordeling av rikdom kan bidra til \u00e5 redusere ulikhet og styrke velferdsstaten.",
+      "type": "fact"
+    },
+    {
+      "id": "37bdbf69-d628-4c93-8eed-35b357c0b5b7",
+      "name": "Rettferdighet er en grunnleggende verdi som b\u00f8r ligge til grunn for skattesystemet.",
+      "type": "value"
+    },
+    {
+      "id": "ceeb785c-0122-42f4-b7ab-b8445e40a83a",
+      "name": "Formuesskatten rammer s\u00e6rlig pensjonister og vanlige l\u00f8nnsmottakere, da en stor andel av skatten betales av dem, mens midlene de betaler allerede er beskattet flere ganger.",
+      "type": "argument"
+    },
+    {
+      "id": "56a84e17-3482-4028-8dba-da211dedc0ed",
+      "name": "Formuesskatten rammer s\u00e6rlig pensjonister og vanlige l\u00f8nnsmottakere som betaler uten \u00e5 ha h\u00f8y inntekt.",
+      "type": "argument"
+    },
+    {
+      "id": "c287f236-c1c1-4758-af64-a3499bac9e9c",
+      "name": "Midlene de betaler er allerede beskattet flere ganger.",
+      "type": "argument"
+    },
+    {
+      "id": "0f3391c7-c5a1-4b14-9b63-8e01e68e9346",
+      "name": "Flere pensjonister og alminnelige l\u00f8nnsmottakere betaler formuesskatt, noe som understreker at ordningen rammer vanlige folk.",
+      "type": "fact"
+    },
+    {
+      "id": "78d936a0-ed58-4cf7-888a-6124f9d2db5d",
+      "name": "En stor andel av formuesskatten betales av pensjonister og vanlige l\u00f8nnsmottakere",
+      "type": "fact"
+    },
+    {
+      "id": "7b347d98-1cf4-4f62-b1e5-39ad45b0f696",
+      "name": "Midlene som blir beskattet gjennom formuesskatten har ofte v\u00e6rt beskattet flere ganger tidligere",
+      "type": "fact"
+    }
+  ],
+  "edges": [
+    {
+      "source": "de3974ac-aadc-45b9-adc5-e139c2440b57",
+      "target": "905074cc-d993-4c8c-bcd6-ceb6d1deae4b",
+      "type": "topic_to_standpoint"
+    },
+    {
+      "source": "b2d99161-7a71-4c03-98c4-af996b097f9e",
+      "target": "905074cc-d993-4c8c-bcd6-ceb6d1deae4b",
+      "type": "topic_to_standpoint"
+    },
+    {
+      "source": "60477bf4-2ef1-4154-9ffd-521ef5644471",
+      "target": "905074cc-d993-4c8c-bcd6-ceb6d1deae4b",
+      "type": "topic_to_standpoint"
+    },
+    {
+      "source": "ac055f35-0b16-49cf-8180-1274f8c76a34",
+      "target": "905074cc-d993-4c8c-bcd6-ceb6d1deae4b",
+      "type": "topic_to_standpoint"
+    },
+    {
+      "source": "dd33ccdb-9cbc-4326-a8bb-d915b23a4e65",
+      "target": "b2d99161-7a71-4c03-98c4-af996b097f9e",
+      "type": "supporting_argument"
+    },
+    {
+      "source": "f3c9e9ac-6009-4f24-b843-adc087a91046",
+      "target": "b2d99161-7a71-4c03-98c4-af996b097f9e",
+      "type": "supporting_argument"
+    },
+    {
+      "source": "d2298614-0259-45e9-ac15-6208a4efad87",
+      "target": "ac055f35-0b16-49cf-8180-1274f8c76a34",
+      "type": "supporting_argument"
+    },
+    {
+      "source": "b02bcf16-c599-405e-a0d4-ee8b1178df84",
+      "target": "de3974ac-aadc-45b9-adc5-e139c2440b57",
+      "type": "supporting_argument"
+    },
+    {
+      "source": "143449f0-972f-4ea1-8b25-ab5ac91d8441",
+      "target": "60477bf4-2ef1-4154-9ffd-521ef5644471",
+      "type": "supporting_argument"
+    },
+    {
+      "source": "41e5f20e-5305-48d0-b884-7929d3b3e1e7",
+      "target": "d2298614-0259-45e9-ac15-6208a4efad87",
+      "type": "supporting_argument"
+    },
+    {
+      "source": "f9520687-f4d6-4605-bbc4-969f3f0d65a0",
+      "target": "b02bcf16-c599-405e-a0d4-ee8b1178df84",
+      "type": "supporting_argument"
+    },
+    {
+      "source": "c2e302c6-2e9a-458e-9b68-493efffc5eb2",
+      "target": "143449f0-972f-4ea1-8b25-ab5ac91d8441",
+      "type": "supporting_argument"
+    },
+    {
+      "source": "411fb8d5-6097-43a7-a078-c66a29b1c691",
+      "target": "f9520687-f4d6-4605-bbc4-969f3f0d65a0",
+      "type": "supporting_argument"
+    },
+    {
+      "source": "83c37402-8c95-43ed-bde2-62aca67bf909",
+      "target": "f9520687-f4d6-4605-bbc4-969f3f0d65a0",
+      "type": "supporting_argument"
+    },
+    {
+      "source": "b02bcf16-c599-405e-a0d4-ee8b1178df84",
+      "target": "f9520687-f4d6-4605-bbc4-969f3f0d65a0",
+      "type": "supporting_argument"
+    },
+    {
+      "source": "d2298614-0259-45e9-ac15-6208a4efad87",
+      "target": "f9520687-f4d6-4605-bbc4-969f3f0d65a0",
+      "type": "supporting_argument"
+    },
+    {
+      "source": "41e5f20e-5305-48d0-b884-7929d3b3e1e7",
+      "target": "f9520687-f4d6-4605-bbc4-969f3f0d65a0",
+      "type": "supporting_argument"
+    },
+    {
+      "source": "d73a897c-114f-4742-9272-99692007128f",
+      "target": "b02bcf16-c599-405e-a0d4-ee8b1178df84",
+      "type": "supporting_argument"
+    },
+    {
+      "source": "09d4f829-b124-4fdb-be78-180988c00576",
+      "target": "41e5f20e-5305-48d0-b884-7929d3b3e1e7",
+      "type": "supporting_argument"
+    },
+    {
+      "source": "072e988c-83be-4677-a973-ce09c7a2fdcf",
+      "target": "41e5f20e-5305-48d0-b884-7929d3b3e1e7",
+      "type": "supporting_argument"
+    },
+    {
+      "source": "d2298614-0259-45e9-ac15-6208a4efad87",
+      "target": "41e5f20e-5305-48d0-b884-7929d3b3e1e7",
+      "type": "supporting_argument"
+    },
+    {
+      "source": "b02bcf16-c599-405e-a0d4-ee8b1178df84",
+      "target": "41e5f20e-5305-48d0-b884-7929d3b3e1e7",
+      "type": "supporting_argument"
+    },
+    {
+      "source": "41f35285-af87-47c2-8baf-9028d153885e",
+      "target": "d2298614-0259-45e9-ac15-6208a4efad87",
+      "type": "supporting_argument"
+    },
+    {
+      "source": "143449f0-972f-4ea1-8b25-ab5ac91d8441",
+      "target": "c2e302c6-2e9a-458e-9b68-493efffc5eb2",
+      "type": "supporting_argument"
+    },
+    {
+      "source": "60477bf4-2ef1-4154-9ffd-521ef5644471",
+      "target": "c2e302c6-2e9a-458e-9b68-493efffc5eb2",
+      "type": "supporting_argument"
+    },
+    {
+      "source": "59216e28-229e-4fcf-8736-58299d83c403",
+      "target": "143449f0-972f-4ea1-8b25-ab5ac91d8441",
+      "type": "supporting_argument"
+    },
+    {
+      "source": "cd414eaf-9a10-454e-b8a6-befd3a563a75",
+      "target": "143449f0-972f-4ea1-8b25-ab5ac91d8441",
+      "type": "supporting_argument"
+    },
+    {
+      "source": "c04b2f09-f895-41c7-8c2c-19c7472ef532",
+      "target": "143449f0-972f-4ea1-8b25-ab5ac91d8441",
+      "type": "supporting_argument"
+    },
+    {
+      "source": "47c69aa2-82b1-4e51-b060-b6d9a8ad8c60",
+      "target": "d73a897c-114f-4742-9272-99692007128f",
+      "type": "supporting_argument"
+    },
+    {
+      "source": "7508ed83-3295-47d5-9815-a151fce22d0f",
+      "target": "d73a897c-114f-4742-9272-99692007128f",
+      "type": "supporting_argument"
+    },
+    {
+      "source": "d2298614-0259-45e9-ac15-6208a4efad87",
+      "target": "d73a897c-114f-4742-9272-99692007128f",
+      "type": "supporting_argument"
+    },
+    {
+      "source": "d2298614-0259-45e9-ac15-6208a4efad87",
+      "target": "b02bcf16-c599-405e-a0d4-ee8b1178df84",
+      "type": "supporting_argument"
+    },
+    {
+      "source": "1700c163-82fb-40cf-bf1a-16a9d51d9d3c",
+      "target": "de3974ac-aadc-45b9-adc5-e139c2440b57",
+      "type": "supporting_argument"
+    },
+    {
+      "source": "535b6a9c-d226-4d54-869b-4baead323a03",
+      "target": "41f35285-af87-47c2-8baf-9028d153885e",
+      "type": "supporting_argument"
+    },
+    {
+      "source": "0e23a811-dfa4-461b-9313-9eb789c8c0ee",
+      "target": "41f35285-af87-47c2-8baf-9028d153885e",
+      "type": "supporting_argument"
+    },
+    {
+      "source": "d73a897c-114f-4742-9272-99692007128f",
+      "target": "41f35285-af87-47c2-8baf-9028d153885e",
+      "type": "supporting_argument"
+    },
+    {
+      "source": "411fb8d5-6097-43a7-a078-c66a29b1c691",
+      "target": "41f35285-af87-47c2-8baf-9028d153885e",
+      "type": "supporting_argument"
+    },
+    {
+      "source": "de3974ac-aadc-45b9-adc5-e139c2440b57",
+      "target": "d2298614-0259-45e9-ac15-6208a4efad87",
+      "type": "supporting_argument"
+    },
+    {
+      "source": "fc9069ff-584e-48a7-96ea-5a2c117cda7b",
+      "target": "ac055f35-0b16-49cf-8180-1274f8c76a34",
+      "type": "supporting_argument"
+    },
+    {
+      "source": "95e4d94d-f3e2-447f-b5ea-b26efe300af0",
+      "target": "ac055f35-0b16-49cf-8180-1274f8c76a34",
+      "type": "supporting_argument"
+    },
+    {
+      "source": "905074cc-d993-4c8c-bcd6-ceb6d1deae4b",
+      "target": "ac055f35-0b16-49cf-8180-1274f8c76a34",
+      "type": "supporting_argument"
+    },
+    {
+      "source": "de3974ac-aadc-45b9-adc5-e139c2440b57",
+      "target": "ac055f35-0b16-49cf-8180-1274f8c76a34",
+      "type": "supporting_argument"
+    },
+    {
+      "source": "2ef96031-fdd0-4bbe-b731-77167b152a24",
+      "target": "c04b2f09-f895-41c7-8c2c-19c7472ef532",
+      "type": "supporting_argument"
+    },
+    {
+      "source": "4ac5db25-0dc2-430a-8d29-92e2c68eee3b",
+      "target": "c04b2f09-f895-41c7-8c2c-19c7472ef532",
+      "type": "supporting_argument"
+    },
+    {
+      "source": "887ee6d8-9b7f-46df-af97-da6d87363844",
+      "target": "c04b2f09-f895-41c7-8c2c-19c7472ef532",
+      "type": "supporting_argument"
+    },
+    {
+      "source": "60477bf4-2ef1-4154-9ffd-521ef5644471",
+      "target": "c04b2f09-f895-41c7-8c2c-19c7472ef532",
+      "type": "supporting_argument"
+    },
+    {
+      "source": "b2d99161-7a71-4c03-98c4-af996b097f9e",
+      "target": "c04b2f09-f895-41c7-8c2c-19c7472ef532",
+      "type": "supporting_argument"
+    },
+    {
+      "source": "dd33ccdb-9cbc-4326-a8bb-d915b23a4e65",
+      "target": "c04b2f09-f895-41c7-8c2c-19c7472ef532",
+      "type": "supporting_argument"
+    },
+    {
+      "source": "f3c9e9ac-6009-4f24-b843-adc087a91046",
+      "target": "c04b2f09-f895-41c7-8c2c-19c7472ef532",
+      "type": "supporting_argument"
+    },
+    {
+      "source": "60477bf4-2ef1-4154-9ffd-521ef5644471",
+      "target": "143449f0-972f-4ea1-8b25-ab5ac91d8441",
+      "type": "supporting_argument"
+    },
+    {
+      "source": "6ff87de6-bf61-47e0-abe7-7a01d42c42f5",
+      "target": "60477bf4-2ef1-4154-9ffd-521ef5644471",
+      "type": "supporting_argument"
+    },
+    {
+      "source": "37bdbf69-d628-4c93-8eed-35b357c0b5b7",
+      "target": "60477bf4-2ef1-4154-9ffd-521ef5644471",
+      "type": "supporting_argument"
+    },
+    {
+      "source": "ceeb785c-0122-42f4-b7ab-b8445e40a83a",
+      "target": "1700c163-82fb-40cf-bf1a-16a9d51d9d3c",
+      "type": "supporting_argument"
+    },
+    {
+      "source": "56a84e17-3482-4028-8dba-da211dedc0ed",
+      "target": "ceeb785c-0122-42f4-b7ab-b8445e40a83a",
+      "type": "supporting_argument"
+    },
+    {
+      "source": "c287f236-c1c1-4758-af64-a3499bac9e9c",
+      "target": "ceeb785c-0122-42f4-b7ab-b8445e40a83a",
+      "type": "supporting_argument"
+    },
+    {
+      "source": "1700c163-82fb-40cf-bf1a-16a9d51d9d3c",
+      "target": "ceeb785c-0122-42f4-b7ab-b8445e40a83a",
+      "type": "supporting_argument"
+    },
+    {
+      "source": "0f3391c7-c5a1-4b14-9b63-8e01e68e9346",
+      "target": "1700c163-82fb-40cf-bf1a-16a9d51d9d3c",
+      "type": "supporting_argument"
+    },
+    {
+      "source": "de3974ac-aadc-45b9-adc5-e139c2440b57",
+      "target": "1700c163-82fb-40cf-bf1a-16a9d51d9d3c",
+      "type": "supporting_argument"
+    },
+    {
+      "source": "78d936a0-ed58-4cf7-888a-6124f9d2db5d",
+      "target": "de3974ac-aadc-45b9-adc5-e139c2440b57",
+      "type": "supporting_argument"
+    },
+    {
+      "source": "7b347d98-1cf4-4f62-b1e5-39ad45b0f696",
+      "target": "de3974ac-aadc-45b9-adc5-e139c2440b57",
+      "type": "supporting_argument"
+    },
+    {
+      "source": "905074cc-d993-4c8c-bcd6-ceb6d1deae4b",
+      "target": "de3974ac-aadc-45b9-adc5-e139c2440b57",
+      "type": "supporting_argument"
+    }
+  ]
+}

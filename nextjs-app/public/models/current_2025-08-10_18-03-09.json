@@ -1,0 +1,158 @@
+{
+  "nodes": [
+    {
+      "id": "f87993fe-4335-4862-97cb-fcc11b734c65",
+      "name": "Formueskatt",
+      "type": "topic"
+    },
+    {
+      "id": "0dc99316-f075-4a3e-8b68-b9dabe3c2690",
+      "name": "Formueskatten b\u00f8r avvikles for \u00e5 fremme norsk eierskap og \u00f8konomisk vekst.",
+      "type": "standpoint"
+    },
+    {
+      "id": "3663fd1b-317c-4dbf-afbc-d93643bec9c0",
+      "name": "Formueskatten er n\u00f8dvendig for omfordeling av rikdom og kan bidra til \u00e5 finansiere velferdstjenester.",
+      "type": "standpoint"
+    },
+    {
+      "id": "2f9a0182-ca7d-4377-88e3-d6be38cc9a3c",
+      "name": "Formueskatten b\u00f8r beholdes, men med justeringer for \u00e5 sikre rettferdighet og effektivitet.",
+      "type": "standpoint"
+    },
+    {
+      "id": "e09114a1-8bef-465d-a0fe-32fd90a178fe",
+      "name": "Formueskatten rammer pensjonister og vanlige l\u00f8nnsmottakere uforholdsmessig hardt.",
+      "type": "standpoint"
+    },
+    {
+      "id": "d7ed762b-3e10-4f91-8c4d-406ef4db4123",
+      "name": "Formueskatten kan f\u00f8re til kapitalflukt og redusert investering i Norge.",
+      "type": "standpoint"
+    },
+    {
+      "id": "20155fee-3e10-43ad-88f4-018817ce928e",
+      "name": {
+        "type": "argument",
+        "argument": "Avvikling av formuesskatten vil bidra til \u00e5 opprettholde norsk eierskap, da skatten i dag diskriminerer norske eiere ved at utenlandske eiere slipper formuesskatt."
+      },
+      "type": "supporting_argument"
+    },
+    {
+      "id": "8c13d29a-ba37-4ea8-939f-6d68e2f36e50",
+      "name": {
+        "type": "argument",
+        "argument": "Fjerning av formuesskatten vil gi norske gr\u00fcndere og investorer de n\u00f8dvendige finansielle insentivene til \u00e5 investere i Norge, fremme nyskaping og skape arbeidsplasser."
+      },
+      "type": "supporting_argument"
+    },
+    {
+      "id": "7e11b161-5529-41c3-9151-35559ea4388c",
+      "name": {
+        "type": "fact",
+        "argument": "En stor andel av formuesskatten betales av pensjonister og vanlige l\u00f8nnsmottakere, og midlene er ofte beskattet flere ganger."
+      },
+      "type": "supporting_argument"
+    },
+    {
+      "id": "8d0579d3-30fc-46de-becd-ed6b4eb7f355",
+      "name": {
+        "type": "fact",
+        "argument": "H\u00f8ye skatteniv\u00e5er knyttet til formuesskatt f\u00f8rer til at mange norske gr\u00fcndere og investorer har flyttet til lands med gunstigere skatteforhold."
+      },
+      "type": "supporting_argument"
+    }
+  ],
+  "edges": [
+    {
+      "source": "0dc99316-f075-4a3e-8b68-b9dabe3c2690",
+      "target": "f87993fe-4335-4862-97cb-fcc11b734c65",
+      "type": "topic_to_standpoint"
+    },
+    {
+      "source": "3663fd1b-317c-4dbf-afbc-d93643bec9c0",
+      "target": "f87993fe-4335-4862-97cb-fcc11b734c65",
+      "type": "topic_to_standpoint"
+    },
+    {
+      "source": "2f9a0182-ca7d-4377-88e3-d6be38cc9a3c",
+      "target": "f87993fe-4335-4862-97cb-fcc11b734c65",
+      "type": "topic_to_standpoint"
+    },
+    {
+      "source": "e09114a1-8bef-465d-a0fe-32fd90a178fe",
+      "target": "f87993fe-4335-4862-97cb-fcc11b734c65",
+      "type": "topic_to_standpoint"
+    },
+    {
+      "source": "3663fd1b-317c-4dbf-afbc-d93643bec9c0",
+      "target": "3663fd1b-317c-4dbf-afbc-d93643bec9c0",
+      "type": "supporting_argument"
+    },
+    {
+      "source": "d7ed762b-3e10-4f91-8c4d-406ef4db4123",
+      "target": "f87993fe-4335-4862-97cb-fcc11b734c65",
+      "type": "topic_to_standpoint"
+    },
+    {
+      "source": "e09114a1-8bef-465d-a0fe-32fd90a178fe",
+      "target": "e09114a1-8bef-465d-a0fe-32fd90a178fe",
+      "type": "supporting_argument"
+    },
+    {
+      "source": "20155fee-3e10-43ad-88f4-018817ce928e",
+      "target": "0dc99316-f075-4a3e-8b68-b9dabe3c2690",
+      "type": "supporting_argument"
+    },
+    {
+      "source": "2f9a0182-ca7d-4377-88e3-d6be38cc9a3c",
+      "target": "2f9a0182-ca7d-4377-88e3-d6be38cc9a3c",
+      "type": "supporting_argument"
+    },
+    {
+      "source": "d7ed762b-3e10-4f91-8c4d-406ef4db4123",
+      "target": "d7ed762b-3e10-4f91-8c4d-406ef4db4123",
+      "type": "supporting_argument"
+    },
+    {
+      "source": "20155fee-3e10-43ad-88f4-018817ce928e",
+      "target": "20155fee-3e10-43ad-88f4-018817ce928e",
+      "type": "supporting_argument"
+    },
+    {
+      "source": "8c13d29a-ba37-4ea8-939f-6d68e2f36e50",
+      "target": "0dc99316-f075-4a3e-8b68-b9dabe3c2690",
+      "type": "supporting_argument"
+    },
+    {
+      "source": "8c13d29a-ba37-4ea8-939f-6d68e2f36e50",
+      "target": "8c13d29a-ba37-4ea8-939f-6d68e2f36e50",
+      "type": "supporting_argument"
+    },
+    {
+      "source": "7e11b161-5529-41c3-9151-35559ea4388c",
+      "target": "0dc99316-f075-4a3e-8b68-b9dabe3c2690",
+      "type": "supporting_argument"
+    },
+    {
+      "source": "7e11b161-5529-41c3-9151-35559ea4388c",
+      "target": "7e11b161-5529-41c3-9151-35559ea4388c",
+      "type": "supporting_argument"
+    },
+    {
+      "source": "8d0579d3-30fc-46de-becd-ed6b4eb7f355",
+      "target": "0dc99316-f075-4a3e-8b68-b9dabe3c2690",
+      "type": "supporting_argument"
+    },
+    {
+      "source": "8d0579d3-30fc-46de-becd-ed6b4eb7f355",
+      "target": "8d0579d3-30fc-46de-becd-ed6b4eb7f355",
+      "type": "supporting_argument"
+    },
+    {
+      "source": "0dc99316-f075-4a3e-8b68-b9dabe3c2690",
+      "target": "0dc99316-f075-4a3e-8b68-b9dabe3c2690",
+      "type": "supporting_argument"
+    }
+  ]
+}
